@@ -1,0 +1,19 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "Practica 5 semana 4 Launch x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pe-ca/CodeChallenge.git"
+  },
+  "author": "RicardoPerales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pe-ca/CodeChallenge/issues"
+  },
+  "homepage": "https://github.com/pe-ca/CodeChallenge#readme"
+}
