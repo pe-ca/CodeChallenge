@@ -4,7 +4,9 @@
   "description": "Practica 5 semana 4 Launch x",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/jest"
+    "test": "node ./node_modules/.bin/jest",
+    "linter": "node ./node_modules/eslint/bin/eslint.js",
+    "linter-fix": "node ./node_modules/eslint/bin/eslint.js . --fix"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/pe-ca/CodeChallenge#readme",
   "devDependencies": {
+    "eslint": "^8.15.0",
     "jest": "^28.1.0"
   }
 }
